@@ -281,9 +281,10 @@ Abaixo, uma coleção de prompts testados e validados que podem ser reutilizados
 
 ## 👤 Autor
 
-Feito com 💜 como parte do desafio de projeto da **DIO — Digital Innovation One**.
+**Gabriel Alves**
+Analista de Dados | SQL · Python · Power BI | Background em Finanças e Controladoria
 
-> *"A melhor forma de aprender é ensinando — e documentar o processo é a forma mais honesta de mostrar o que você aprendeu."*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel_Alves-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/gabriel-alves-06755822b/)
 
 ---
 
